@@ -1,0 +1,15 @@
+ 						Niye github istifade etmeliyik?
+ 
+    Github da her hansi birinin layihesini kopyalayaraq oz kompyuterimizde ishtiyib ,elediyimiz deyishikleri,ve yaxud yenilikleri hemin layihe 
+sahibine gondererek oz tekliflerimizi qondere bilerik.
+Ve yaxud eksine.Bununlada githubin komeyi ile bir nece shehsin bir layihe uzerinde ishlemesine komek edir.
+    Bir cox populyar layiheler Github uzerinde depolanmaqdadir. (jQuery, reddit, Sparkle, curl, Ruby on Rails, 
+node.js, ClickToFlash, Erlang/OTP, CakePHP, Redis vs)
+
+Saytin yaradicilari GitHub-i "developers uchun sosial sebeke" adlandirir.
+ 
+Github da bir cox proqramlasdirma dilleri ucun sintaksis isiqlandirmasi ile layihe fayllarini goruntuleye bilersiniz.
+
+   Kodun gonderilmesi ile yanasi, istirakcilar bir-biri ile unsiyyet qurur, bir-birinin redaksiyalarina serh ede bilerler ve
+dostlarin xeberlerini izleye bilerler.  
+
